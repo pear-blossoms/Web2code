@@ -29,7 +29,7 @@ There will be a demo
         <td><img src="./sample1.png" width = "1000" alt="sample1"></td>
     </tr>
     <tr>
-        <td><img src="./sample1.png" width = "1000" alt="sample1"></td>
+        <td><img src="./sample1.png" width = "1000" alt="sample2"></td>
     </tr>
 </table>
 
