@@ -26,7 +26,10 @@ There will be a demo
 # Examples
 <table>
     <tr>
-        <td><img src="./samples1.png" width = "1000" alt="sample1"></td>
+        <td><img src="./sample1.png" width = "1000" alt="sample1"></td>
+    </tr>
+    <tr>
+        <td><img src="./sample1.png" width = "1000" alt="sample1"></td>
     </tr>
 </table>
 
