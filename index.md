@@ -29,10 +29,10 @@ There will be a demo
         <td><img src="./sample1.png" width = "1000" alt="sample1"></td>
     </tr>
     <tr>
-        <td><img src="./sample1.png" width = "1000" alt="sample2"></td>
+        <td><img src="./sample2.png" width = "1000" alt="sample2"></td>
     </tr>
     <tr>
-        <td><img src="./sample1.png" width = "1000" alt="sample3"></td>
+        <td><img src="./sample3.png" width = "1000" alt="sample3"></td>
     </tr>
 </table>
 
