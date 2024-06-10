@@ -18,6 +18,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Statistics and Distribution
 
+<p>
+    Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCGR.
+</p>
 <table>
     <tr>
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
@@ -42,6 +45,20 @@ There should be whitespace between paragraphs. We recommend including a README, 
     </tr>  
     <tr>
         <th>Avg Unique Tags</th> <th>10±3</th> <th>22±6</th> <th>17.0±0.0</th> <th>13.6±2.7</th> <th>13.5±2.5</th>
+    </tr>
+</table>
+<p>
+    Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCGR.
+</p>
+<table>
+    <tr>
+        <th>Dataset</th> <th>DWU</th> <th>DWU<sub>R</sub></th>
+    </tr>
+    <tr>
+        <th>Instruction</th> <th><img src="./v.png" width = "10"></th> <th><img src="./v.png" width = "10"></th>
+    </tr>
+    <tr>
+        <th>Size</th> <th>243.5K</th> <th>51.5K</th>
     </tr>
 </table>
 
