@@ -33,7 +33,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
     </tr>
     <tr>
-        <th>Instruction</th> <th>-</th> <th>-</th> <th>-</th> <th><img src="./v.png" width = "10"></th> <th><img src="./v.png" width = "10"></th>
+        <th>Instruction</th> <th>-</th> <th>-</th> <th>-</th> <th><img src="./images/v.png" width = "10"></th> <th><img src="./images/v.png" width = "10"></th>
     </tr>
     <tr>
         <th>Source</th> <th>Synthetic</th> <th>Real-World</th> <th>Synthetic</th> <th>Synthetic</th> <th>Synthetic</th>
@@ -62,7 +62,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
         <th>Dataset</th> <th>DWU</th> <th>DWU<sub>R</sub></th>
     </tr>
     <tr>
-        <th>Instruction</th> <th><img src="./v.png" width = "10"></th> <th><img src="./v.png" width = "10"></th>
+        <th>Instruction</th> <th><img src="./images/v.png" width = "10"></th> <th><img src="./images/v.png" width = "10"></th>
     </tr>
     <tr>
         <th>Size</th> <th>243.5K</th> <th>51.5K</th>
@@ -71,7 +71,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <p>
     The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
 </p>
-<img src="./distribution.png" width = "500" alt="distribution">
+<img src="./images/distribution.png" width = "500" alt="distribution">
 
 # Evaluation Frameworkc
 
@@ -82,13 +82,13 @@ Our proposed evaluation framework includes two schemes: (1) Webpage Understandin
 # Examples
 <table>
     <tr>
-        <td><img src="./pix2code.png" width = "1000" alt="sample1"></td>
+        <td><img src="./images/pix2code.png" width = "1000" alt="sample1"></td>
     </tr>
     <tr>
-        <td><img src="./WebSRC.png" width = "1000" alt="sample2"></td>
+        <td><img src="./images/WebSRC.png" width = "1000" alt="sample2"></td>
     </tr>
     <tr>
-        <td><img src="./QA.png" width = "1000" alt="sample3"></td>
+        <td><img src="./images/QA.png" width = "1000" alt="sample3"></td>
     </tr>
 </table>
 
