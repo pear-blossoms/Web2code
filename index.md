@@ -71,11 +71,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <p>
     The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
 </p>
-<table>
-    <tr>
-        <td><img src="./tag_distribution.pdf" width = "1000" alt="distribution"></td>
-    </tr>
-</table>
+<img src="./tag_distribution.pdf" width = "1000" alt="distribution">
 
 # Performance
 
