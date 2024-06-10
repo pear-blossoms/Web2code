@@ -20,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <style>
     table {
-        font-family:Arial，sans-serif;
+        font-family:Arial, sans-serif;
         font-size:14px;
     }
 </style>
