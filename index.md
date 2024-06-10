@@ -20,7 +20,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <table>
     <tr>
-        <th>Stage</th> <th>Dataset</th> <th>Number</th> <th>Download</th>
+        <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R<\sub></th>
+    </tr>
+    <tr>
+        <th>Instruction</th> <th>-</th> <th>-</th> <th>-</th> <th>DWCG</th> <th>DWCG<sub>R<\sub></th>
     </tr>
 </table>
 
