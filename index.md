@@ -33,7 +33,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
     </tr>
     <tr>
-        <th>Instruction</th> <th>-</th> <th>-</th> <th>-</th> <th><img src="./images/v.png" width = "10"></th> <th><img src="./images/v.png" width = "10"></th>
+        <th>Instruction</th> <th>-</th> <th>-</th> <th>-</th> <th>✓</th> <th>✓</th>
     </tr>
     <tr>
         <th>Source</th> <th>Synthetic</th> <th>Real-World</th> <th>Synthetic</th> <th>Synthetic</th> <th>Synthetic</th>
@@ -62,7 +62,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
         <th>Dataset</th> <th>DWU</th> <th>DWU<sub>R</sub></th>
     </tr>
     <tr>
-        <th>Instruction</th> <th><img src="./images/v.png" width = "10"></th> <th><img src="./images/v.png" width = "10"></th>
+        <th>Instruction</th> <th>✓</th> <th>✓</th>
     </tr>
     <tr>
         <th>Size</th> <th>243.5K</th> <th>51.5K</th>
@@ -91,20 +91,26 @@ There should be whitespace between paragraphs. We recommend including a README, 
         <th>LLM Backbone</th> <th>DWCG</th> <th>DWU</th> <th>DWCGR</th> <th>DWUR</th> <th>Accuracy (%)</th>
     </tr>
     <tr>
-        <th>CrystalCoder-7B</th> <th>✓</th> <th>-</th> <th>-</th> <th>-</th> <th>71.81</th>
+        <th rowspan="2">CrystalCoder-7B</th> <th>✓</th> <th>-</th> <th>-</th> <th>-</th> <th>71.81</th>
     </tr>
     <tr>
         <th>✓</th> <th>✓</th> <th>-</th> <th>-</th> <th>73.74</th>
     </tr>
+    <tr>
+        <th>CrystalChat-7B</th> <th>-</th> <th>-</th> <th>-</th> <th>-</th> <th>73.94</th>
+    </tr>
+    <tr>
+        <th>✓</th> <th>✓</th> <th>-</th> <th>-</th> <th>73.48</th>
+    </tr>
+    <tr>
+        <th>✓</th> <th>✓</th> <th>✓</th> <th>✓</th> <th>74.14</th>
+    </tr>
+    <tr>
+        <th>LLaMA3-8B</th> <th>✓</th> <th>✓</th> <th>✓</th> <th>✓</th> <th>74.84</th>
+    </tr>
 </table>
 
 
-✓ ✓ - - 73.74
-CrystalChat-7B [37]
-- - - - 73.94
-✓ ✓ - - 73.48
-✓ ✓ ✓ ✓ 74.14
-LLaMA3-8B [1] ✓ ✓ ✓ ✓ 74.84
 
 # Examples
 <table>
