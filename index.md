@@ -20,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <table>
     <tr>
-        <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R<\sub></th>
+        <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
     </tr>
     <tr>
         <th>Instruction</th> <th>-</th> <th>-</th> <th>-</th> <th><img src="./v.png" width = "10"></th> <th><img src="./v.png" width = "10"></th>
@@ -43,7 +43,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
     <tr>
         <th>Avg Unique Tags</th> <th>10±3</th> <th>22±6</th> <th>17.0±0.0</th> <th>13.6±2.7</th> <th>13.5±2.5</th>
     </tr>
-
 </table>
 
 # Performance
