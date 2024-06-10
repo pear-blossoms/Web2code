@@ -9,9 +9,18 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# DEMO
+#Overview
 
-There will be a demo
+Overview. Our Web2Code instruction tuning dataset construction and instruction generation process87
+involves four key components: (1) Creation of new webpage image-code pair data: We generated88
+high-quality HTML webpage-code pairs following the CodeAlpaca prompt [6] using GPT-3.5 and89
+convert them into instruction-following data. (2) Refinement of existing webpage code generation90
+data: We transform existing datasets including WebSight [ 22 ] and Pix2Code [ 4] into an instruction-91
+following data format similar to LLaVA data [33 ], so they can be used as instruction-following data92
+to train MLLMs. (3) Creation of a new text question-answer pair data: We generated a new question-93
+answer pair dataset utilizing our new GPT-3.5 generated data from (1) for webpage understanding.94
+(4) Refinement of existing webpage understanding data: We refine the WebSRC [ 10] question-answer95
+data to improve its quality using the GPT-4. Each component is elaborated in detail as follows
 
 # Data
 
