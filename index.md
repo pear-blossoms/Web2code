@@ -73,7 +73,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 </p>
 <img src="./distribution.png" width = "500" alt="distribution">
 
-# Performance
+# Evaluation Frameworkc
+
+Our proposed evaluation framework includes two schemes: (1) Webpage Understanding Benchmark (WUB): An offline evaluation using ‘yes’/‘no’ questions. (2) Webpage Code Generation Benchmark (WCGB): An online evaluation (using GPT-4 Vision) based on image similarity.
+
+
 
 # Examples
 <table>
