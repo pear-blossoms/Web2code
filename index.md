@@ -75,12 +75,36 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Evaluation Frameworkc
 
+## Evaluation Metric for HTML Code Generation
 <p>
     Our proposed evaluation framework includes two schemes: (1) Webpage Understanding Benchmark (WUB): An offline evaluation using ‘yes’/‘no’ questions. (2) Webpage Code Generation Benchmark (WCGB): An online evaluation (using GPT-4 Vision) based on image similarity.
 </p>
-<img src="./images/evaluation.png" width = "500" alt="distribution">
+<img src="./images/evaluation.png" width = "1000" alt="distribution">
+
+## Quantitative Evaluation for HTML Code Generation of MLLMs
+
+<p>
+    he accuracy of webpage understanding under various data configurations and LLM backbones. All models are instruction-tuned and evaluated on our WUB benchmark. We note that the general domain data (i.e., LLaVA) is included in all data configuration as default.
+</p>
+<table>
+    <tr>
+        <th>LLM Backbone</th> <th>DWCG</th> <th>DWU</th> <th>DWCGR</th> <th>DWUR</th> <th>Accuracy (%)</th>
+    </tr>
+    <tr>
+        <th>CrystalCoder-7B</th> <th>✓</th> <th>-</th> <th>-</th> <th>-</th> <th>71.81</th>
+    </tr>
+    <tr>
+        <th>✓</th> <th>✓</th> <th>-</th> <th>-</th> <th>73.74</th>
+    </tr>
+</table>
 
 
+✓ ✓ - - 73.74
+CrystalChat-7B [37]
+- - - - 73.94
+✓ ✓ - - 73.48
+✓ ✓ ✓ ✓ 74.14
+LLaMA3-8B [1] ✓ ✓ ✓ ✓ 74.84
 
 # Examples
 <table>
