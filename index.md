@@ -75,7 +75,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Evaluation Frameworkc
 
-Our proposed evaluation framework includes two schemes: (1) Webpage Understanding Benchmark (WUB): An offline evaluation using ‘yes’/‘no’ questions. (2) Webpage Code Generation Benchmark (WCGB): An online evaluation (using GPT-4 Vision) based on image similarity.
+<p>
+    Our proposed evaluation framework includes two schemes: (1) Webpage Understanding Benchmark (WUB): An offline evaluation using ‘yes’/‘no’ questions. (2) Webpage Code Generation Benchmark (WCGB): An online evaluation (using GPT-4 Vision) based on image similarity.
+</p>
+<img src="./images/evaluation.png" width = "500" alt="distribution">
 
 
 
@@ -95,11 +98,12 @@ Our proposed evaluation framework includes two schemes: (1) Webpage Understandin
 # Bibtext
 
 ```bib
-todo
+TODO
 ```
 
 # Acknowledgement
 
+TODO
 
 ## Header 2
 
