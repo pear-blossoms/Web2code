@@ -18,6 +18,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Statistics and Distribution
 
+<style>
+    table {
+        font-family:Arial，sans-serif;
+        font-size:14px;
+    }
+</style>
+
 <p>
     Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCGR.
 </p>
