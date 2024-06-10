@@ -11,9 +11,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Overview
 
-Our Web2Code instruction tuning dataset construction and instruction generation process involves four key components: (1) Creation of new webpage image-code pair data (DWCG). (2) Refinement of existing webpage code generation data (DWCG<sub>R</sub>). (3) Creation of a new text question-answer pair data (DWU). (4) Refinement of existing webpage understanding data (DWU<sub>R</sub>).
+<p>
+    Our Web2Code instruction tuning dataset construction and instruction generation process involves four key components: (1) Creation of new webpage image-code pair data (DWCG). (2) Refinement of existing webpage code generation data (DWCG<sub>R</sub>). (3) Creation of a new text question-answer pair data (DWU). (4) Refinement of existing webpage understanding data (DWU<sub>R</sub>).
+</p>
 
-# Data
+
+# Statistics and Distribution
 
 <table>
     <tr>
