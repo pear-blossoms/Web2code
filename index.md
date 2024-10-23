@@ -149,4 +149,4 @@ Update Soon
 
 # License
 
-![Data License](https://img.shields.io/badge/Data%20License-MIT-red.svg) **Usage and License Notices**: Usage and License Notices: The data is intended and licensed for general use under the MIT License. The dataset is MIT licensed (permitting both commercial and non-commercial use) and models trained using the dataset can be used freely, provided proper attribution is given, and the license terms are followed.
+![Data License](https://img.shields.io/badge/Data%20License-MIT-red.svg) **Usage and License Notices**: The data is intended and licensed for general use under the MIT License. The dataset is MIT licensed (permitting both commercial and non-commercial use) and models trained using the dataset can be used freely, provided proper attribution is given, and the license terms are followed.
